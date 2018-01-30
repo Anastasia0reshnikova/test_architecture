@@ -1,0 +1,10 @@
+.idea
+target
+allure-report
+allure-results
+.allure
+.DS_Store
+.iml
+build
+.log
+debug.log
